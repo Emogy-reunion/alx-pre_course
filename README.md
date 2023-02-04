@@ -1,3 +1,3 @@
 My first readme
 I love pizzza.
-Art ensusiast.
+Art enthusiast.
